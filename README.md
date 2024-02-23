@@ -1,16 +1,40 @@
-# exemple
+# Calculator App using BLoC (Business Logic Component) Pattern
 
-A Simple Calculator App, Flutter project.
 
-## Getting Started
+This is a calculator app built with Flutter, implementing the BLoC pattern for state management. The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-This project is a starting point for a Flutter application.
+<br><br>
+<img src="/images/img1.png" alt="Screenshot 1" width="200">
+<img src="/images/img2.png" alt="Screenshot 2" width="200">
+<br><br>
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Perform addition, subtraction, multiplication, and division operations.
+- Clear button to reset the calculator.
+- Error handling for invalid inputs and division by zero.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository:  [Git Link](https://github.com/Abdou-009/Flutter_Calculator_App.git)
+2. Navigate to the project directory:
+3. Install dependencies:
+5. Run the app:
+
+## Usage
+
+- Launch the app on a Flutter-compatible device or simulator
+- Use the buttons to input numbers and perform operations.
+- Tap the '=' button to calculate the result.
+- Tap the 'C' button to clear the input.
+
+## Dependencies
+
+- [Flutter](https://flutter.dev/)
+- [BLoC](https://pub.dev/packages/bloc)
+- [Flutter BLoC](https://pub.dev/packages/flutter_bloc)
+- [Equatable](https://pub.dev/packages/equatable) 
+
+## Credits
+
+This app was created by [Abdou_009](https://github.com/Abdou_009).
